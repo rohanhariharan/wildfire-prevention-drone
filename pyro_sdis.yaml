@@ -1,0 +1,6 @@
+names:
+  0: background
+  1: smoke
+path: /home/rohanhariharan/Desktop/datasets/pyro_sdis
+train: images/train
+val: images/val
