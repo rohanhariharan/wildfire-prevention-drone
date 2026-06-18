@@ -55,7 +55,7 @@ def prepare_yolo_data():
 
 def train_yolo(yaml_config_path):
     print("\nstarting yolo26n training...")
-    model = YOLO("/home/rohanhariharan/Desktop/yolo26n.pt")
+    model = YOLO("[YOLO PATH HERE]")
     
     model.train(
         data=yaml_config_path,
