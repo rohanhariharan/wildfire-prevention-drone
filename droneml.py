@@ -42,8 +42,7 @@ def prepare_yolo_data():
         "train": "images/train",
         "val": "images/val",
         "names": {
-            0: "background", 
-            1: "smoke"       
+            0: "smoke"       
         }
     }
     
